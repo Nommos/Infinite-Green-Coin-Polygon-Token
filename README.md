@@ -62,7 +62,7 @@ If you're a user interested in using IFGC, follow these steps:
 
 Connect with us and be a part of the Infinite Green Coin community:
 
-- Website: [https://www.infinitegreencoin.xyz](https://www.infinitegreencoin.xyz
+- Website: [https://www.getinfinitegreen.com](https://www.getinfinitegreen.com
 - Twitter: [@coininfinite](https://twitter.com/coininfinite
 - Telegram: [IFGC Community](https://t.me/IFGC_Community)
 - Discord: [IFGC Discord](https://coming
